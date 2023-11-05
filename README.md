@@ -1,9 +1,10 @@
-
+![](https://komarev.com/ghpvc/?username=victorfdev&color=006bed)
 
 ### Olá, Eu sou o Victor!
 - 🔭 Hoje estou focado em aprender Front-End
-- 🌱 Estou cursando Análise e Desevolvimento de Sistemas
-
+- 🎓 Estou cursando Análise e Desevolvimento de Sistemas
+- 🌱 &nbsp; Aprendendo Back-End
+- 
 ## 🚀 Minhas Skills
 
 <div>
