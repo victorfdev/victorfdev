@@ -3,10 +3,10 @@
 
 # <h1><Hello, Eu sou o Victor!/></h1> 
 
-<div>
-   -📍 Santos, São Paulo
-   -🔭 Hoje estou focado em aprender Front-End
-</div>
+
+<p>-📍 Santos, São Paulo</p>
+<p>-🔭 Hoje estou focado em aprender Front-End</p>
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
