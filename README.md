@@ -4,8 +4,6 @@
 
 
 - 🔭 Hoje estou focado em aprender Front-End
-- 🎓 Estou cursando Análise e Desevolvimento de Sistemas
-- 🌱 &nbsp; Aprendendo Back-End
 
   
 <h3>Minhas Skills</h3>
