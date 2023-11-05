@@ -1,6 +1,6 @@
 # Olá, Eu sou o Victor!
-### Front-Ende Developer
-
+- 🔭 Front-End Developer
+- 🌱 Estou apredendo Análise e Desevolvimento de Sistema
 <!--
 **victorfdev/victorfdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
