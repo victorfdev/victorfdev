@@ -1,7 +1,7 @@
 
 
 
-# <H1><Hello, Eu sou o Victor!/> color:"blue" </H1> 
+# <h1><Hello, Eu sou o Victor!/></h1> 
 
 -🔭 Hoje estou focado em aprender Front-End
   
