@@ -5,7 +5,7 @@
 
 <h3>Sobre mim</h3>
 
-<p> 
+<p align="left"> 
   📍 Santos, São Paulo
   🔭 Hoje estou focado em aprender Front-End
   🌱 Aprendendo mais sobre
