@@ -1,4 +1,6 @@
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" >
+
 
 ##  <h1><Hello, Eu sou Victor!/></h1>
 
@@ -7,8 +9,6 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 - 📍 Santos, São Paulo.
 - 🔭 Hoje estou focado em aprender Front-End.
 - 🌱 Aprendendo mais sobre
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" >
 
  
 <h3>Minhas Skills</h3>
@@ -47,7 +47,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="victor.fsilva06@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=victor.fsilva06@gmail.com" /></a>
 
   <a href="https://www.linkedin.com/in/victor-fernando-776a23242/" alt="LinkedIn">
