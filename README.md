@@ -4,11 +4,9 @@
 
 Sou apaixonado por solucionar problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-<div> 
  -📍 Santos, São Paulo.
  -🔭 Hoje estou focado em aprender Front-End.
  -🌱 Aprendendo mais sobre
-</div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
