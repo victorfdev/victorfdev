@@ -12,9 +12,11 @@
      <img height="30" weigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
  <br>
- <tr>
----            
+ 
+ ---            
 ## ⭐ Informações sobre minha conta GitHub
+
+ <tr>
 <table>
   <tr>
       <td>
@@ -23,6 +25,5 @@
     <td>
        <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
       </td>
-
   </tr>
 </table><br/>
