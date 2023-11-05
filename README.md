@@ -5,15 +5,15 @@
 
 <h3>Sobre mim</h3>
 
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 <p align="left"> 
    📍 Santos, São Paulo
   🔭 Hoje estou focado em aprender Front-End
   🌱 Aprendendo mais sobre
 </p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
-
  
 <h3>Minhas Skills</h3>
  
