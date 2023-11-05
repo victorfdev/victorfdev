@@ -1,6 +1,6 @@
-<img src="https://twitter.com/_viki7uu/status/1721034654357074324?t=M9Bl51aeuhEfYr7HNjBAgA&s=19" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="blob:https://twitter.com/027efe19-f6ad-49b2-a9a8-2e79c1f92a84" min-width="300px" max-width="300px" width="300px" align="right">
 
-### <h1><Olá, Eu sou o Victor!/></h1>
+### <h1><Hello, Eu sou o Victor!/></h1>
 
 
 - 🔭 Hoje estou focado em aprender Front-End
