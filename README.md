@@ -13,8 +13,8 @@
 </div>
  <br>
  <tr>
-            
-
+---            
+## ⭐ Informações sobre minha conta GitHub
 <table>
   <tr>
       <td>
@@ -26,9 +26,3 @@
 
   </tr>
 </table><br/>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorfdev&show_icons=true)
