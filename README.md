@@ -11,7 +11,7 @@
      <img height="30" weigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
      <img height="30" weigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
- <br>           
+ <hr>           
  
 ## ⭐ Informações sobre minha conta GitHub
 
