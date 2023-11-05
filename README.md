@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&hide=html&layout=compact&theme=radical" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&layout=compact&theme=radical" alt="Github stats" />
 </td>
 <td>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=radical" alt="Github stats" />
