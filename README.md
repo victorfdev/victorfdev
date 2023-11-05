@@ -1,10 +1,9 @@
 
-###  <H1> Hello, Eu sou o Victor! </H1> 
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-
+### <H1> Hello, Eu sou o Victor! </H1> 
 
 - 🔭 Hoje estou focado em aprender Front-End
+  
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
   
 <h3>Minhas Skills</h3>
