@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIG.qTHpLdz6payJmWJiPckW?pid=ImgGn" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://th.bing.com/th/id/OIG.qTHpLdz6payJmWJiPckW?pid=ImgGn" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### <h1><Olá, Eu sou o Victor!/></h1>
 
