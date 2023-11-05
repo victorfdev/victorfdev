@@ -1,4 +1,4 @@
-<img src="https://th.bing.com/th/id/OIG.qTHpLdz6payJmWJiPckW?pid=ImgGn" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://www.notion.so/Links-teis-7753e3839b414f3bbcdc6beab49307d4?pvs=4#c643e76b4a0c4badafedf4775e78fab5" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### <h1><Olá, Eu sou o Victor!/></h1>
 
