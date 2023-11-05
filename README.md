@@ -12,7 +12,7 @@
      <img height="30" weigth="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma"/>
 </div>
  <br>           
- <tr>
+ <hr>
       ## ⭐ Informações sobre minha conta GitHub
 <table>
   <tr>
