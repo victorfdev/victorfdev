@@ -2,26 +2,26 @@
 
 ### <h1><Olá, Eu sou o Victor!/></h1>
 
-<p align="left"> 
-    - 🔭 Hoje estou focado em aprender Front-End
-    - 🎓 Estou cursando Análise e Desevolvimento de Sistemas
-    - 🌱 &nbsp; Aprendendo Back-End
-</p>
+
+- 🔭 Hoje estou focado em aprender Front-End
+- 🎓 Estou cursando Análise e Desevolvimento de Sistemas
+- 🌱 &nbsp; Aprendendo Back-End
+
   
 <h3>Minhas Skills</h3>
 
-**Aplicações e dados**
+**Aplicações e dados:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**DevOps**
+**DevOps:**
 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-**Ferramentas de desenvolvimento**
+**Ferramentas de desenvolvimento:**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
