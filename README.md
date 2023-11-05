@@ -18,7 +18,7 @@
 **DevOps**
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 **Ferramentas de desenvolvimento**
 
@@ -33,7 +33,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
 </td>
 <td>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=victorfdev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
 </td>
 </tr>
 </table><br/>
