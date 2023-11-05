@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=victorfdev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
 
 ### Olá, Eu sou o Victor!
 - 🔭 Hoje estou focado em aprender Front-End
@@ -21,10 +21,10 @@
 <table>
   <tr>
       <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+
   </td>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+      <img align='right' src="https://github-readme-stats.vercel.app/api?username=victorfdev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
       </td>
   </tr>
 </table><br/>
