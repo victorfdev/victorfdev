@@ -1,4 +1,4 @@
-<img src="blob:https://twitter.com/027efe19-f6ad-49b2-a9a8-2e79c1f92a84" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### <h1><Hello, Eu sou o Victor!/></h1>
 
