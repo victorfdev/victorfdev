@@ -2,13 +2,13 @@
 
 ##  <h1><Hello, Eu sou Victor!/></h1>
 
-Sou apaixonado por solucionar problemas e aprender, sempre aberto a novos desafios e pronto para enfrentar mudanças.
+Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
- -📍 Santos, São Paulo.
- -🔭 Hoje estou focado em aprender Front-End.
- -🌱 Aprendendo mais sobre
+- 📍 Santos, São Paulo.
+- 🔭 Hoje estou focado em aprender Front-End.
+- 🌱 Aprendendo mais sobre
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="500px" align="right" >
 
  
 <h3>Minhas Skills</h3>
