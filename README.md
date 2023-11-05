@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=victorfdev&color=756bed)
+![](https://komarev.com/ghpvc/?username=victorfdev&color=908bed)
 
 ### Olá, Eu sou o Victor!
 - 🔭 Hoje estou focado em aprender Front-End
