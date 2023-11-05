@@ -3,7 +3,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 
-
 <p align="left">  📍 Santos, São Paulo</p>
 <p align="left"> 🔭 Hoje estou focado em aprender Front-End</p>
 <p align="left"> 🌱 Aprendendo mais sobre</p>
