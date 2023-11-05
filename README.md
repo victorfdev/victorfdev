@@ -30,10 +30,10 @@
 <table>
 <tr>
 <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=radical" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorfdev&hide=html&layout=compact&theme=radical" alt="Github stats" />
 </td>
 <td>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api?username=victorfdev&theme=radical" alt="Github stats" />
 </td>
 </tr>
 </table><br/>
