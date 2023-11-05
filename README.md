@@ -3,6 +3,7 @@
 
 # <h1><Hello, Eu sou o Victor!/></h1> 
 
+-📍 Santos, São Paulo
 -🔭 Hoje estou focado em aprender Front-End
   
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
