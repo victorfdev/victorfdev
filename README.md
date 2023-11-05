@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/victo/Downloads/_6d575ae6-928d-4dad-b5cc-17cf87e06e57-removebg.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src=https://twitter.com/_viki7uu/status/1721034654357074324?t=M9Bl51aeuhEfYr7HNjBAgA&s=19" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### <h1><Olá, Eu sou o Victor!/></h1>
 
