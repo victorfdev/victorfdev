@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
   
-<h4>Minhas Skills</h4>
+# <h3>Minhas Skills</h3>
 
 **Aplicações e dados:**
 
