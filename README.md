@@ -1,3 +1,5 @@
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=victorfdev&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
+
 ### Olá, Eu sou o Victor!
 - 🔭 Hoje estou focado em aprender Front-End
 - 🌱 Estou cursando Análise e Desevolvimento de Sistemas
