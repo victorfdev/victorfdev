@@ -1,4 +1,4 @@
-<img src="https://www.notion.so/Links-teis-7753e3839b414f3bbcdc6beab49307d4?pvs=4#c643e76b4a0c4badafedf4775e78fab5" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="file:///C:/Users/victo/Downloads/_6d575ae6-928d-4dad-b5cc-17cf87e06e57-removebg.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### <h1><Olá, Eu sou o Victor!/></h1>
 
