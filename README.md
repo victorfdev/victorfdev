@@ -8,7 +8,7 @@
 <p> 
   📍 Santos, São Paulo
   🔭 Hoje estou focado em aprender Front-End
-   🌱 &nbsp; Aprendendo mais sobre
+  🌱 Aprendendo mais sobre
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
