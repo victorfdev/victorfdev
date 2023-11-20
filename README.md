@@ -1,8 +1,11 @@
+# <Hello, Eu sou Victor!/>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
 
-##  <h1><Hello, Eu sou Victor!/></h1>
+![](https://komarev.com/ghpvc/?username=victorfdev&color=000000)
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=victorfdev&countColorcountColor&countColor=%232979ff) ![GitHub followers](https://img.shields.io/github/followers/victorfdev?label=Follow&style=social)
+
 
 Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
