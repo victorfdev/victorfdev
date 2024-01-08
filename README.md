@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Victor!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+i'm+Victor!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
+[![Typing SVG]https://readme-typing-svg.herokuapp.com/?color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=<Olá,+Eu+Sou+Victor!/>+:%29;<Desenvolvedor+Front-End/>+;<Hello,+I'm+Victor!/>+:%29;<Front-End+Developer/>;)](https://git.io/typing-svg)
 #  
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" >
 
@@ -15,7 +15,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 - 🌱 Aprendendo mais sobre JavaScript, Vue.js, bootstrap e lógica de programação.
 
  
-<h3>Minhas Skills</h3>
+<h3>Minhas Skills</h3>        
  
 **Aplicações e dados:**
 
