@@ -69,6 +69,3 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-
-  ![Snake animation](https://github.com/victorfdev/blob/output/github-contribution-grid-snake.svg)
- 
