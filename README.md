@@ -10,7 +10,7 @@
 
 Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-- 📍 Santos, São Paulo.
+- 📍 Santos, São Paulo. 
 - 🔭 Hoje estou focado em aprender Front-End.
 - 🌱 Aprendendo mais sobre JavaScript, Node.js, Angular e lógica de programação.
 
