@@ -14,7 +14,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 - 🔭 Hoje estou focado em aprender Front-End.
 - 🌱 Aprendendo mais sobre JavaScript, Node.js, Angular e lógica de programação.
 
- 
+     
 <h3>Minhas Skills</h3>                  
  
 **Aplicações e dados:**  
