@@ -40,6 +40,8 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
 <br/>
 
+## 📊 GitHub Stats:
+
 <table>
 <tr>
 <td>
