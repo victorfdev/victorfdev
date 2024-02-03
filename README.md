@@ -11,11 +11,10 @@
 Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
 - 📍 Santos, São Paulo. 
-- 🔭 Hoje estou focado em aprender Front-End.
-- 🌱 Aprendendo mais sobre JavaScript, Node.js, Angular e lógica de programação.
-
+- 📚 Analysis and systems development | UNIP
+- 🌱 I am looking to become a FullStack developer
      
-<h3>Minhas Skills</h3>                  
+## 💻 Tech Stack:               
 
 **Aplicações e dados:**  
 
