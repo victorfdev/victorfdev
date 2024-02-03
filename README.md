@@ -22,7 +22,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=ff0331)
-![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=blue)
+![Typescript](https://img.shields.io/badge/TypeScript-333333?style=flat&logo=typescript&logoColor=1d99ff)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-333333?style=flat&logo=spring&logoColor=green)
