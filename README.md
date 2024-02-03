@@ -19,11 +19,12 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 **Aplicações e dados:**  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-333333?style=flat&logo=angular&logoColor=ff0331)
 ![Kotlin](https://img.shields.io/badge/Kotlin-333333?&style=flat&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Saas](https://img.shields.io/badge/Sass-333333?style=flat&logo=sass&logoColor=ff1d8a)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 
@@ -34,6 +35,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
 **Ferramentas de desenvolvimento:**
 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello)
