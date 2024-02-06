@@ -18,7 +18,7 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
      
 ## 💻 Tech Stack:               
 
-**Aplicações e dados:**  
+**⚒️ Language and Tools**  
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=blue)
@@ -33,19 +33,12 @@ Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 ![.Net](https://img.shields.io/badge/-.NET-333333?style=flat&logo=.net)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333333?style=flat&logo=postgresql&logoColor=white)
-
-**DevOps:**
-
-![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
-![GitHub Pages](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
-
-**Ferramentas de desenvolvimento:**
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=blue)
-
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
+![GitHub Pages](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=GitHub)
 
 ## 📊 GitHub Stats:
 
