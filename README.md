@@ -11,7 +11,7 @@
 Sempre aberto a novos desafios e pronto para enfrentar mudanças. 
 
 - 📍 Santos, São Paulo. 
-- 📚 Analysis and systems development | UNIP
+- 📚 Analysis and systems development 
 - 🌱 I am looking to become a FullStack developer
 
 <br>
